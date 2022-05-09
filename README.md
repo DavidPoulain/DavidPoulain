@@ -3,7 +3,11 @@
 ### Hello there 👋 
 ###### *General Kenobi*
 
+My name is David and I'm currently student at french school O'clock learning web developpement. 
 
+What I already learn ? 
+
+![html5](https://user-images.githubusercontent.com/96908453/167374121-9690d619-2a11-45ac-859d-3d28b2f295a1.svg)
 
 <!--
 **DavidPoulain/DavidPoulain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

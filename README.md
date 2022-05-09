@@ -5,7 +5,7 @@
 
 My name is David and I'm currently student at french school O'clock learning web developpement. 
 
-What I already learn ? 
+#### What I already learn ? 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-blue)
 ![CSS3](https://img.shields.io/badge/-CSS3-orange)
@@ -14,17 +14,16 @@ What I already learn ?
 ![MVC](https://img.shields.io/badge/-MVC-yellow)
 ![API Rest](https://img.shields.io/badge/-API%20Rest-red)
 
-What am I learning now ?
+#### What am I learning now ?
 
 ![React.JS](https://img.shields.io/badge/-React.JS-blue)
 ![SCSS](https://img.shields.io/badge/-SCSS-orange)
 
-What I want to learn after ?
+#### What I want to learn after ?
 
 ![Wordpress](https://img.shields.io/badge/-Wordpress-blue)
 ![Three.JS](https://img.shields.io/badge/-Three.JS-red)
 
-&nbsp;&nbsp;&nbsp;
 
 
 

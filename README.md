@@ -11,10 +11,10 @@ What I learn </br>
 ![PHP](https://img.shields.io/badge/-PHP-blue)
 ![MySQL](https://img.shields.io/badge/-MySql-lightgrey)
 ![MVC](https://img.shields.io/badge/-MVC-yellow)
-![API Rest](https://img.shields.io/badge/-API%20Rest-red)
+![API Rest](https://img.shields.io/badge/-API%20Rest-red)</br>
 What I am learning now </br>
 ![React.JS](https://img.shields.io/badge/-React.JS-blue)
-![SCSS](https://img.shields.io/badge/-SCSS-orange)
+![SCSS](https://img.shields.io/badge/-SCSS-orange)</br>
 What I want to learn </br>
 ![Wordpress](https://img.shields.io/badge/-Wordpress-blue)
 ![Three.JS](https://img.shields.io/badge/-Three.JS-red)

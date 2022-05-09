@@ -1,4 +1,4 @@
-### <ins>Hello there<ins> 👋 
+### Hello there 👋 
 ###### *General Kenobi*
 
 My name is David and I'm currently student at french school O'clock learning web developpement since mid-january 2022. 

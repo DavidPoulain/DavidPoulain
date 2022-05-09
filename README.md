@@ -1,4 +1,4 @@
-<!-- ![Cover](https://github.com/DavidPoulain/DavidPoulain/blob/main/img/cover_unsplash1.jpg) -->
+[Cover](https://github.com/DavidPoulain/DavidPoulain/blob/main/img/%40Daedalus_Dev.png)
 
 ### Hello there 👋 
 ###### *General Kenobi*

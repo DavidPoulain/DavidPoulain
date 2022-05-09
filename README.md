@@ -6,7 +6,7 @@
 My name is David and I'm currently student at french school O'clock learning web developpement. 
 
 What I already learn ? 
-React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux ReactiveX GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs
+
 
 
 

@@ -1,6 +1,8 @@
 ### Hello there 👋 
 ###### *General Kenobi*
 
+<img align='right' src="https://media.giphy.com/media/J1j6wzyprIjN0dFZoc/giphy.gif" width="230" />
+
 My name is David and I'm currently student at french school O'clock learning web developpement since mid-january 2022. 
 
 **What I learn :** </br>

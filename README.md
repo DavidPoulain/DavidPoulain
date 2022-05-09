@@ -6,25 +6,26 @@
 My name is David and I'm currently student at french school O'clock learning web developpement. 
 
 What I already learn ? 
-<p>
- <img alt="React" src="https://img.shields.io/badge/-HTML5-blue" />
- <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
- </p>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-blue)
 ![CSS3](https://img.shields.io/badge/-CSS3-orange)
 ![PHP](https://img.shields.io/badge/-PHP-blue)
 ![MySQL](https://img.shields.io/badge/-MySql-lightgrey)
+![MVC](https://img.shields.io/badge/-MVC-yellow)
+![API Rest](https://img.shields.io/badge/-API%20Rest-red)
+
+What am I learning now ?
+
+![React.JS](https://img.shields.io/badge/-React.JS-blue)
+![SCSS](https://img.shields.io/badge/-SCSS-orange)
+
+What I want to learn after ?
+
+![Wordpress](https://img.shields.io/badge/-Wordpress-blue)
+![Three.JS](https://img.shields.io/badge/-Three.JS-red)
+
 &nbsp;&nbsp;&nbsp;
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
-![spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=spark&color=36465D&logoColor=AAA&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
-![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
+
 
 
 

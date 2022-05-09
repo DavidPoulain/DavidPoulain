@@ -23,7 +23,7 @@ My name is David and I'm currently student at french school O'clock learning web
 
 My goal is to become a solid frontend web developper. I want to be able to build dynamic and interactive web sites that will give great and memorable experiences to the user. But one step at a time. My first goal is to finish my training at O'clock, making my first project with a team of talented studens, and then working on several projects like my own portfolio for exemple.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPoulain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPoulain&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

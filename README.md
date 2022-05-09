@@ -8,9 +8,9 @@ My name is David and I'm currently student at french school O'clock learning web
 What I already learn ? 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-blue)
-![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
-![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=36465D&logoColor=AAA&style=flat-square)
-![scala](https://img.shields.io/static/v1?logo=scala&label=&message=scala&color=36465D&logoColor=AAA&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-orange)
+![PHP](https://img.shields.io/badge/-PHP-blue)
+![MySQL](https://img.shields.io/badge/-MySql-lightgrey)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)

@@ -1,5 +1,3 @@
-![Cover](https://github.com/DavidPoulain/DavidPoulain/blob/main/img/cover2.jpg.png)
-
 ### Hello there 👋 
 ###### *General Kenobi*
 

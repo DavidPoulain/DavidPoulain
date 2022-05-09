@@ -5,8 +5,8 @@
 My name is David and I'm currently student at french school O'clock learning web developpement since mid-january 2022. 
 
 **What I learn :** </br>
-![HTML5](https://img.shields.io/badge/-HTML5-blue)
-![CSS3](https://img.shields.io/badge/-CSS3-orange)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-blue)
 ![MySQL](https://img.shields.io/badge/-MySql-lightgrey)
 ![MVC](https://img.shields.io/badge/-MVC-yellow)

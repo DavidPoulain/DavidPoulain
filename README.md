@@ -2,7 +2,7 @@
 ###### *General Kenobi*
 <img align='right' src="https://media.giphy.com/media/J1j6wzyprIjN0dFZoc/giphy.gif" width="230" />
 
-My name is David and I'm currently student at french school O'clock learning web developpement since mid-january 2022. 
+My name is David and I'm currently studying web developpement at french school O'clock since mid-january 2022. I started this professional retraining after 11 years in the same compagnie. I needed some fresh air and new horizons !
 
 **What I've learned :** </br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

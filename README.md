@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/J1j6wzyprIjN0dFZoc/giphy.gif" width="230" />
+<img align='right' src="https://media.giphy.com/media/J1j6wzyprIjN0dFZoc/giphy.gif" width="230" /> </br>
 ### Hello there 👋 
 ###### *General Kenobi*
 

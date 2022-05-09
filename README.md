@@ -7,16 +7,22 @@ My name is David and I'm currently student at french school O'clock learning web
 **What I learn :** </br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-blue)
-![MySQL](https://img.shields.io/badge/-MySql-lightgrey)
-![MVC](https://img.shields.io/badge/-MVC-yellow)
-![API Rest](https://img.shields.io/badge/-API%20Rest-red)</br>
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![LUMEN](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=lumen&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+
 **What I am learning now :** </br>
 ![React.JS](https://img.shields.io/badge/-React.JS-blue)
 ![SCSS](https://img.shields.io/badge/-SCSS-orange)</br>
 **What I want to learn :** </br>
-![Wordpress](https://img.shields.io/badge/-Wordpress-blue)
+![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Three.JS](https://img.shields.io/badge/-Three.JS-red)
+
+![MVC](https://img.shields.io/badge/-MVC-yellow)
+![API Rest](https://img.shields.io/badge/-API%20Rest-red)</br>
 
 ### My goals ?
 

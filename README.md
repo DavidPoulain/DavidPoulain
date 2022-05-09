@@ -7,6 +7,8 @@ My name is David and I'm currently student at french school O'clock learning web
 
 What I already learn ? 
 
+ <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+
 ![HTML5](https://img.shields.io/badge/-HTML5-blue)
 ![CSS3](https://img.shields.io/badge/-CSS3-orange)
 ![PHP](https://img.shields.io/badge/-PHP-blue)

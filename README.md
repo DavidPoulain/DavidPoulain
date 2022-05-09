@@ -19,7 +19,7 @@ My name is David and I'm currently student at french school O'clock learning web
 ![Wordpress](https://img.shields.io/badge/-Wordpress-blue)
 ![Three.JS](https://img.shields.io/badge/-Three.JS-red)
 
-#### My goals ?
+### My goals ?
 
 My goal is to become a solid frontend web developper. I want to be able to build dynamic and interactive web sites that will give great and memorable experiences to the user. But one step at a time. My first goal is to finish my training at O'clock, making my first project with a team of talented studens, and then working on several projects like my own portfolio for exemple.
 

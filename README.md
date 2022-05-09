@@ -1,3 +1,5 @@
+<!-- ![Cover](https://github.com/DavidPoulain/DavidPoulain/blob/main/img/cover_unsplash1.jpg) -->
+
 ### Hi there 👋
 
 <!--
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/DavidPoulain/DavidPoulain/blob/main/img/cover_unsplash1.jpg)
+

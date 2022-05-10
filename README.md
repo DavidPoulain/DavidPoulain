@@ -23,11 +23,11 @@ My name is David and I'm currently studying web developpement at french school O
 ![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Three.JS](https://img.shields.io/badge/THREE.JS-C2BCD6?style=for-the-badge)
 
-### My goals ?
+## My goals ?
 
 My goal is to become a solid frontend web developper. I want to be able to build dynamic and interactive web sites that will give great and memorable experiences to the user. But one step at a time. My first goal is to finish my training at O'clock, making my first project with a team of talented studens, and then working on several projects like my own portfolio for exemple.
 
-### Some of my stats
+## Some of my stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPoulain&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 

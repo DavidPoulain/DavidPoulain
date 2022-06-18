@@ -14,14 +14,18 @@ My name is David and I'm currently studying web developpement at french school O
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-CD1A5B?style=for-the-badge)
-![API Rest](https://img.shields.io/badge/API%20REST-E0B130?style=for-the-badge)</br>
+![API Rest](https://img.shields.io/badge/API%20REST-E0B130?style=for-the-badge)
+![React.JS](https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)</br></br>
 
 **What I am learning now :** </br>
-![React.JS](https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)</br>
+I'm working on my first project with a team of 4 others web developpers ! 
+
 **What I want to learn :** </br>
 ![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Three.JS](https://img.shields.io/badge/THREE.JS-C2BCD6?style=for-the-badge)
+![Next.JS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js)
+![Typescript.JS](https://img.shields.io/badge/TYPESCRIPT.JS-FFFFFF?style=for-the-badge&logo=typescript)
 
 ## My goals ?
 

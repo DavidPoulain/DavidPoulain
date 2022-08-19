@@ -19,7 +19,7 @@ My name is David and I'm currently looking for a compagny to follow an sandwich 
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)</br></br>
 
 **What I am learning now :** </br>
-I'm working on my first project with a team of 4 others web developpers ! 
+For now I am looking for a compagny to follow an sandwich course !
 
 **What I want to learn :** </br>
 ![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)

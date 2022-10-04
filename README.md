@@ -2,7 +2,7 @@
 ###### *General Kenobi*
 <img align='right' src="https://media.giphy.com/media/J1j6wzyprIjN0dFZoc/giphy.gif" width="230" />
 
-My name is David and I'm currently looking for a compagny to follow an sandwich course web developpement at french school O'clock. I began learning web developpment in early 2021 and started a professional retraining with O'clock from mid-january 2022 to end of june 2022.
+My name is David and I'm currently a front-end developper among Sooyoos (french web agency based in Paris) following a sandwich course web developpement at french school O'clock. I began learning web developpment in early 2021 and started a professional retraining with O'clock from mid-january 2022 to end of june 2022.
 
 **What I've learned :** </br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,10 +19,9 @@ My name is David and I'm currently looking for a compagny to follow an sandwich 
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)</br></br>
 
 **What I am learning now :** </br>
-For now I am looking for a compagny to follow an sandwich course !
+![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 **What I want to learn :** </br>
-![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Three.JS](https://img.shields.io/badge/THREE.JS-C2BCD6?style=for-the-badge)
 ![Next.JS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js)
 ![Typescript.JS](https://img.shields.io/badge/TYPESCRIPT.JS-FFFFFF?style=for-the-badge&logo=typescript)

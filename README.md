@@ -2,7 +2,7 @@
 ###### *General Kenobi*
 <img align='right' src="https://media.giphy.com/media/J1j6wzyprIjN0dFZoc/giphy.gif" width="230" />
 
-My name is David and I'm currently a front-end developper among Sooyoos (french web agency based in Paris) following a sandwich course web developpement at french school O'clock. I began learning web developpment in early 2021 and started a professional retraining with O'clock from mid-january 2022 to end of june 2022.
+My name is David and I'm currently a front-end developper among Sooyoos (french web agency based in Paris) following a sandwich course web developpement at french school O'clock. I began learning web developpment in early 2021 and started a professional retraining with O'clock from mid-january 2022 to end of june 2022. I started my sandwich course in October 2022.
 
 **What I've learned :** </br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

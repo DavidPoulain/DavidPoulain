@@ -20,11 +20,11 @@ My name is David and I'm currently a front-end developper among Sooyoos (french 
 
 **What I am learning now :** </br>
 ![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Next.JS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js)
+![Typescript.JS](https://img.shields.io/badge/TYPESCRIPT.JS-FFFFFF?style=for-the-badge&logo=typescript)
 
 **What I want to learn :** </br>
 ![Three.JS](https://img.shields.io/badge/THREE.JS-C2BCD6?style=for-the-badge)
-![Next.JS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js)
-![Typescript.JS](https://img.shields.io/badge/TYPESCRIPT.JS-FFFFFF?style=for-the-badge&logo=typescript)
 
 ## My goals ?
 

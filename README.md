@@ -2,7 +2,7 @@
 ###### *General Kenobi*
 <img align='right' src="https://media.giphy.com/media/J1j6wzyprIjN0dFZoc/giphy.gif" width="230" />
 
-My name is David and I'm currently a front-end developper among Sooyoos (french web agency based in Paris) following a sandwich course web developpement at french school O'clock. I began learning web developpment in early 2021 and started a professional retraining with O'clock from mid-january 2022 to end of june 2022. I started my sandwich course in October 2022.
+My name is David and I'm currently a front-end developper among Sooyoos (french web agency based in Paris). I began learning web developpment in early 2021 and finished my sandwich course in January 2024.
 
 **What I've learned :** </br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,19 +16,19 @@ My name is David and I'm currently a front-end developper among Sooyoos (french 
 ![MVC](https://img.shields.io/badge/MVC-CD1A5B?style=for-the-badge)
 ![API Rest](https://img.shields.io/badge/API%20REST-E0B130?style=for-the-badge)
 ![React.JS](https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.JS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js)
+![Typescript.JS](https://img.shields.io/badge/TYPESCRIPT.JS-FFFFFF?style=for-the-badge&logo=typescript)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)</br></br>
 
 **What I am learning now :** </br>
-![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Next.JS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js)
-![Typescript.JS](https://img.shields.io/badge/TYPESCRIPT.JS-FFFFFF?style=for-the-badge&logo=typescript)
+![Three.JS](https://img.shields.io/badge/THREE.JS-C2BCD6?style=for-the-badge)
 
 **What I want to learn :** </br>
-![Three.JS](https://img.shields.io/badge/THREE.JS-C2BCD6?style=for-the-badge)
+![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ## My goals ?
 
-My goal is to become a solid frontend web developper. I want to be able to build dynamic and interactive web sites that will give great and memorable experiences to the user. But one step at a time. My first goal is to finish my training at O'clock, making my first project with a team of talented students, and then working on several projects like my own portfolio for exemple.
+My goal is to become a solid frontend web developper. I want to be able to build dynamic and interactive web sites that will give great and memorable experiences to the user. 
 
 ## Some of my stats
 

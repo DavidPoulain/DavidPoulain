@@ -22,9 +22,9 @@ My name is David and I'm currently working as a Frontend Developer & Designer at
 ![Dust](https://img.shields.io/badge/Dust.tt-FFD700?style=for-the-badge&logo=dust&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![API Rest](https://img.shields.io/badge/API%20REST-E0B130?style=for-the-badge)
+![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 **Already used** </br>
-![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LUMEN](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=lumen&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)

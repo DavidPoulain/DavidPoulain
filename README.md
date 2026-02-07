@@ -19,6 +19,7 @@ My name is David and I'm currently working as a Frontend Developer & Designer at
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Dust](https://img.shields.io/badge/Dust.tt-FFD700?style=for-the-badge&logo=dust&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![API Rest](https://img.shields.io/badge/API%20REST-E0B130?style=for-the-badge)
@@ -39,7 +40,9 @@ My name is David and I'm currently working as a Frontend Developer & Designer at
 
 ## My goals ?
 
-My goal is to become a solid frontend web developper. I want to be able to build dynamic and interactive web sites that will give great and memorable experiences to the user. 
+**Mastering Modern Web Architecture:** Constantly pushing the boundaries of the React ecosystem to build highly performant, scalable, and accessible web applications. I’m currently focused on advanced patterns in Next.js and fine-tuning Core Web Vitals.
+**Game Development Journey:** Diving deep into Indie Game Dev. I'm currently learning the ropes of game design and mechanics using GameMaker Studio, with the goal of bridging the gap between web interactivity and gaming experiences. 
+**AI-Driven Development:** Leveraging Cursor and AI-driven workflows to ship cleaner code faster, while exploring custom agents with Dust for team productivity.
 
 ## Some of my stats
 

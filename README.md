@@ -48,8 +48,7 @@ My name is David and I'm currently working as a Frontend Developer & Designer at
 
 ## Some of my stats
 
-![Metrics](https://metrics.lecoq.io/DavidPoulain?template=classic&base=languages&base.inventory=false&base.metadata=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPoulain&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPoulain&layout=compact&theme=transparent&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

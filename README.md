@@ -11,19 +11,20 @@ My name is David and I'm currently working as a Frontend Developer & Designer at
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Ecosystem & Tools** </br>
+![API Rest](https://img.shields.io/badge/API%20REST-E0B130?style=for-the-badge)
+
+**Already used** </br>
+![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LUMEN](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=lumen&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-CD1A5B?style=for-the-badge)
-![API Rest](https://img.shields.io/badge/API%20REST-E0B130?style=for-the-badge)
-![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)</br></br>
-
-**Ecosystem & Tools** </br>
-![Three.JS](https://img.shields.io/badge/THREE.JS-C2BCD6?style=for-the-badge)
 
 **Learning Path** </br>
+![Three.JS](https://img.shields.io/badge/THREE.JS-C2BCD6?style=for-the-badge)
 ![Game Development](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ## My goals ?

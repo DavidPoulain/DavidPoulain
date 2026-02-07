@@ -46,14 +46,6 @@ My name is David and I'm currently working as a Frontend Developer & Designer at
 
 **AI-Driven Development:** Leveraging Cursor and AI-driven workflows to ship cleaner code faster, while exploring custom agents with Dust for team productivity.
 
-## Some of my stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPoulain&layout=compact&theme=transparent&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
 <!--
 **DavidPoulain/DavidPoulain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

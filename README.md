@@ -41,7 +41,9 @@ My name is David and I'm currently working as a Frontend Developer & Designer at
 ## My goals ?
 
 **Mastering Modern Web Architecture:** Constantly pushing the boundaries of the React ecosystem to build highly performant, scalable, and accessible web applications. I’m currently focused on advanced patterns in Next.js and fine-tuning Core Web Vitals.</br>
+
 **Game Development Journey:** Diving deep into Indie Game Dev. I'm currently learning the ropes of game design and mechanics using GameMaker Studio, with the goal of bridging the gap between web interactivity and gaming experiences.</br>
+
 **AI-Driven Development:** Leveraging Cursor and AI-driven workflows to ship cleaner code faster, while exploring custom agents with Dust for team productivity.
 
 ## Some of my stats

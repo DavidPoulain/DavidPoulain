@@ -16,6 +16,7 @@ My name is David and I'm currently working as a Frontend Developer & Designer at
 
 **Ecosystem & Tools** </br>
 ![API Rest](https://img.shields.io/badge/API%20REST-E0B130?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 **Already used** </br>
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
